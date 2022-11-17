@@ -1,4 +1,4 @@
 # Data-Mining
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMParra/Data-Mining/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMParra/Data-Mining/HEAD)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/SantiagoMParra/Data-Mining/tree/main/HEAD
+ :target: https://mybinder.org/v2/gh/SantiagoMParra/Data-Mining/HEAD
